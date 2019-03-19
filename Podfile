@@ -6,6 +6,6 @@ target 'DemoPod1' do
   use_frameworks!
 
   # Pods for DemoPod1
-pod 'BLSDKTest'
+pod 'BLSDKTest','~> 1.0.9'
 
 end
